@@ -33,7 +33,7 @@ function resetVideoHeight() {
 }
 
 function init() {
-    gapi.client.setApiKey("AIzaSyDkDLf20iyIaWa_9IkF6XgGuHbEuuejcsA");
+    gapi.client.setApiKey("AIzaSyDkDLf20iyIaWa_9IkF6XgGxxxxxxxxxxx");
     gapi.client.load("youtube", "v3", function() {
         // yt api is ready
     });
